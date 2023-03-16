@@ -11,6 +11,9 @@ function App() {
       <h3>polu</h3>
       <h3>hello world</h3>
       <h3>Karthik</h3>
+
+      <input>Text</input>
+
       <Parent />
     </div>
   );
