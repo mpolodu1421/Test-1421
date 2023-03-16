@@ -12,6 +12,8 @@ function App() {
       <h3>hello world</h3>
       <h3>Karthik</h3>
 
+      <input>ierjoiajg</input>
+
       <input>Text</input>
 
       <Parent />
