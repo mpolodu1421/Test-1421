@@ -6,10 +6,11 @@ function App() {
   return (
     <div className="App">
       <h1>Hello</h1>
+      <h1>test</h1>
+
       <Parent />
     </div>
   );
 }
 
 export default App;
-
